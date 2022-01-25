@@ -1,0 +1,18 @@
+{
+    "like":"likes",
+    "theme":"Theme",
+    "language":"Language",
+    "themeTitle":"Set theme",
+    "lightTheme":"Light",
+    "darkTheme":"Dark",
+    "comment":"View all {} comments",
+    "add_comment":"Add a comment...",
+    "english":"English",
+    "turkish":"Turkish",
+    "posts":"Posts",
+    "followers":"Followers",
+    "following":"Following",
+    "shop":"Shop",
+    "search":"Search",
+    "follow":"Follow"
+}

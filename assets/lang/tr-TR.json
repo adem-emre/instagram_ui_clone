@@ -1,0 +1,18 @@
+{
+    "like":"beğeni",
+    "theme":"Tema",
+    "language":"Dil",
+    "themeTitle":"Tema seç",
+    "lightTheme":"Aydınlık",
+    "darkTheme":"Karanlık",
+    "comment":"{} yorumun tümünü gör",
+    "add_comment":"Yorum ekle...",
+    "english":"İngilizce",
+    "turkish":"Türkçe",
+    "posts":"Gönderi",
+    "followers":"Takipçi",
+    "following":"Takip",
+    "shop":"Mağaza",
+    "search":"Ara",
+    "follow":"Takip Et"
+}
